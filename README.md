@@ -13,23 +13,34 @@ Icons: Font Awesome free (fa-wrench, fa-tools).
 Fonts: Google Fonts (Roboto fallback Arial) - open license.
 Original Content: Created for prototype:
 
-Product descriptions (pipes R50/m, heaters R5000).
-Testimonials, about story.
-File Organisation
-joes-plumbing-project/
-├── images/
-│   ├── hero-home.jpg (Unsplash leak repair)
-│   ├── service-drain.jpg
-│   ├── product-pipe.jpg
-│   └── team-joe.jpg
-├── documents/
-│   ├── license.pdf
-│   └── testimonials.txt
-└── text/
-    ├── services.txt
-    ├── products.txt
-    └── about.txt
-All names: lowercase-kebab-case, prefixed (hero-, service-).
+## File Organisation
+
+This is how I structured my Part 2 submission based on the lecturer feedback:
+
+Part 2/
+├── Aboutus.html
+├── Contactus.html
+├── Index.html
+├── Products.html
+├── Services.html
+├── Styles.css
+└── Joes-plumbing-project/
+    ├── Documents/
+    │   ├── Contact-research-README
+    │   └── Website_proposal_md
+    └── Images/
+        ├── Fa-wrench.jpg
+        ├── Fixtures.jpg
+        ├── Hero-home.jpg
+        ├── Leaks and repairs.jpg
+        ├── Product pipe.jpg
+        ├── Service drain.jpg
+        ├── Team Joe.jpg
+        ├── Tools and parts.jpg
+        └── Water heater.jpg
+
+All files kept in lowercase where possible. Images sourced ethically and stored in the Images folder. 
+Part 1 files kept inside Joes-plumbing-project so they don't get overwritten.
 
 Content sourced ethically, attributed in README.md.
 
