@@ -83,5 +83,3 @@ Images scale to 100% width of screen
 ## Website Proposal Document
 
 Download the full website proposal here: [Website_proposal_md.pdf](joes-plumbing-project/documents/Website_proposal_md.pdf)
-Meta viewport ensures proper scaling on all devices
-Form validation works: empty required fields show browser error
