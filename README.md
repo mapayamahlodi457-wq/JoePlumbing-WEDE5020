@@ -77,6 +77,12 @@ Navigation stacks vertically for easy thumb access
 Single column layout, no horizontal scroll
 All text readable, buttons large enough to tap
 Images scale to 100% width of screen
+
+---
+
+## Website Proposal Document
+
+Download the full website proposal here: [Website_proposal_md.pdf](joes-plumbing-project/documents/Website_proposal_md.pdf)
 All Devices
 
 No content cut off or overlapping
