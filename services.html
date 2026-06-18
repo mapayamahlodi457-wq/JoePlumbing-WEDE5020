@@ -23,13 +23,38 @@
             <li><a href="products.html">Products</a></li>
             <li><a href="contactus.html">Contact</a></li>
         </ul>
+         <button id="theme-toggle">🌙 Dark Mode</button>
     </nav>
-    
+
 <!-- Services page main content -->
 <main class="container">
         <h2>Plumbing Services</h2>
         <p>Comprehensive plumbing solutions for any issue, big or small.</p>
-        
+
+        <!-- Rubric 2.1 Interactive Elements - Accordion FAQ -->
+        <section class="accordion" aria-label="Frequently Asked Questions">
+            <button class="accordion-btn" type="button">How quickly can you respond to an emergency?</button>
+            <div class="accordion-content">
+                <div class="card" style="padding: 1rem; margin-top: 1rem; background:#ffffff; box-shadow:none;">
+                    <p>Emergency service is available 24/7, and we aim to respond as soon as possible.</p>
+                </div>
+            </div>
+
+            <button class="accordion-btn" type="button">Do you provide quotes before starting work?</button>
+            <div class="accordion-content">
+                <div class="card" style="padding: 1rem; margin-top: 1rem; background:#ffffff; box-shadow:none;">
+                    <p>Yes. We discuss the issue, provide a clear quote, and then proceed only with your approval.</p>
+                </div>
+            </div>
+
+            <button class="accordion-btn" type="button">What areas do you serve?</button>
+            <div class="accordion-content">
+                <div class="card" style="padding: 1rem; margin-top: 1rem; background:#ffffff; box-shadow:none;">
+                    <p>We serve Mbombela and surrounding areas for both repairs and installations.</p>
+                </div>
+            </div>
+        </section>
+
         <!-- Service cards grid - auto responsive layout -->
         <div class="service-grid">
             <!-- Drain cleaning card with relevant image -->
@@ -60,6 +85,8 @@
             <p>&copy; 2026 Joe's Plumbing Services. Mbombela. All rights reserved. | Call: (082) 123-4567</p>
         </div>
     </footer>
+
+    <script src="js/script.js"></script>
 </body>
 </html>
 

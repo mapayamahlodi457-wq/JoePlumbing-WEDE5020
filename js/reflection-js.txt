@@ -1,0 +1,17 @@
+Fig 2.1a-2.1b: I implemented accordion FAQ per rubric 2.1 using addEventListener and max-height transitions. 
+Challenge: Smooth slide animation. Solution: Used element.scrollHeight in js/script.js lines 1-40.
+Learning: DOM manipulation, toggle classes, aria-expanded for accessibility.
+
+Fig 2.2: I implemented live search per rubric 2.2 using input event and textContent matching.
+Challenge: Case sensitive search. Solution: Used toLowerCase() method.
+Learning: Filtering DOM elements dynamically for better UX.
+
+Fig 4.1: I implemented custom form validation per rubric 4.1 using event.preventDefault and DOM manipulation.
+Challenge: Browser default validation vs custom JS errors. Solution: Added novalidate to form + dynamic error spans.
+Learning: Client-side validation, user feedback, accessibility with error messages.
+
+Fig 4.2: I implemented a dark mode toggle feature per rubric 4.2 using JavaScript DOM manipulation and localStorage API.
+Challenge: Theme only worked on index.html initially because the button was missing on other pages. Solution: Added the theme-toggle button to all HTML pages + used localStorage to persist user preference across pages.
+Learning: I learned how to manipulate CSS classes with classList.toggle, store data in the browser with localStorage, and apply DRY principles by reusing the same JS code across multiple pages.
+
+SEO Note: On-Page SEO elements including title tags, meta descriptions, and alt text were implemented and screenshot in Part 2 per rubric 3.1.
