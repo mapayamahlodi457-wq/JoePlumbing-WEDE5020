@@ -80,6 +80,20 @@ Images scale to 100% width of screen
 
 ---
 
+A responsive plumbing services website with Dark/Light Mode toggle.
+
+## Features
+- Dark/Light Mode with localStorage 
+- Responsive design for mobile/tablet/desktop
+- 5 pages: Home, About, Services, Products, Contact
+- Live search + accordion sections
+
+## Technologies
+HTML5, CSS3, JavaScript, Git & GitHub Pages
+
+---
+
+
 ## Website Proposal Document
 
 Download the full website proposal here: [Website_proposal_md.pdf](joes-plumbing-project/documents/Website_proposal_md.pdf)
